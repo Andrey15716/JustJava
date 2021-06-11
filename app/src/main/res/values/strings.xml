@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Just Java</string>
+<string name="action_settings" translatable="false">action settings</string>
+<string name="Name" translatable="false">Name</string>
+    <string name="TOPPINGS" translatable="false">TOPPINGS</string>
+    <string name="Chocolate" translatable="false">Chocolate</string>
+    <string name="Whipped_cream" translatable="false" >Whipped cream</string>
+    <string name="QUANTITY" translatable="false" >QUANTITY</string>
+    <string name="ORDER_SUMMARY" translatable="false" >ORDER SUMMARY</string>
+    <string name="Order" translatable="false" >Order</string>
+    <string name="Thank_you" translatable="false" >Thank you</string>
+    <string name="dollars" translatable="false" >Dollars</string>
+    <string name="yes" translatable="false" >yes</string>
+    <string name="no" translatable="false" >no</string>
+
+</resources>

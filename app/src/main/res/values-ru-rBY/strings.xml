@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Просто Java</string>
+    <string name="action_settings" translatable="false">action settings</string>
+    <string name="Name" translatable="false">Имя</string>
+    <string name="TOPPINGS" translatable="false">Начинка</string>
+    <string name="Chocolate" translatable="false">Шоколад</string>
+    <string name="Whipped_cream" translatable="false">Взбитые сливки</string>
+    <string name="QUANTITY" translatable="false">Количество</string>
+    <string name="Order" translatable="false">Заказ</string>
+    <string name="ORDER_SUMMARY" translatable="false">Общий заказ</string>
+    <string name="Thank_you" translatable="false">Спасибо!</string>
+    <string name="dollars" translatable="false">Долларов</string>
+    <string name="yes" translatable="false">Да</string>
+    <string name="no" translatable="false">Нет</string>
+</resources>

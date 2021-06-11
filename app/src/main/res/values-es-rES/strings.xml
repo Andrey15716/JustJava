@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo Java</string>
+    <string name="Name" translatable="false">Nombre</string>
+    <string name="action_settings" translatable="false">ajustes de acción</string>
+    <string name="TOPPINGS" >Ingredientes</string>
+    <string name="Chocolate">Bombón</string>
+    <string name="Whipped_cream"  >Crema batida</string>
+    <string name="QUANTITY" translatable="false">CANTIDAD</string>
+    <string name="ORDER_SUMMARY" translatable="false">RESUMEN DE PEDIDO</string>
+    <string name="Order" translatable="false">ORDEN</string>
+    <string name="Thank_you" translatable="false">Gracias</string>
+    <string name="dollars" translatable="false">Dolares</string>
+    <string name="yes" translatable="false">si</string>
+    <string name="no" translatable="false">falta</string>
+</resources>
